@@ -1,6 +1,6 @@
 # 华清池前端文件
 
-> 使用vue+vux开发
+使用vue+vux开发
 
 ## 安装步骤
 
@@ -18,6 +18,7 @@ npm run build
 npm run build --report
 ```
 ## 路由
+```
 /home
 /orderAudit
 /sendCard
@@ -30,3 +31,4 @@ npm run build --report
 /delivery
 /pickupRecord
 login
+```

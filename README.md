@@ -1,8 +1,8 @@
-# shop
+# 华清池前端文件
 
-> A Vue.js project
+> 使用vue+vux开发
 
-## Build Setup
+## 安装步骤
 
 ``` bash
 # install dependencies
